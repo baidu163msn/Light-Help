@@ -1,0 +1,36 @@
+📌簡介：
+本期教學分享如何從零開始，使用開源專案 Tiny11Builder 安全地剝離 Windows 11 (26H2) 官方原版鏡像中的冗餘組件與後台遙測服務，親手構建專屬於您的極致純淨版系統（Tiny11）。為了節省大家的時間，我也提前構建了標準版、Core 極限精簡版等多個現成 ISO 鏡像，供大家直接下載使用。
+
+📌Description:
+Learn how to safely strip away bloatware and background telemetry services from the official Windows 11 (26H2) ISO from scratch using the open-source project Tiny11Builder, creating your own ultra-clean custom OS (Tiny11). To save you time, I have also pre-built several ready-to-use ISO versions (including Standard and Core editions) for direct download.
+----------------------------------------
+
+▶教學影片網址：
+Tutorial Video:
+Youtube:
+
+bilibili:
+
+----------------------------------------
+
+⬇️Windows 11 26H2 鏡像 (含Tiny11預先構建版)
+Pre-built Tiny11 & Win11 26H2 ISOs
+https://mypikpak.com/s/VP4r7Cb3Obw5M7_9LvKzjQnSo2
+
+⬇️Tiny11 Builder (開源系統構建工具)
+Tiny11 Builder (Open-source OS Builder)
+https://github.com/ntdevlabs/tiny11builder
+
+⬇️Rufus (U盤系統安裝工具)
+Rufus (USB Bootable Drive Tool)
+https://rufus.ie/zh/
+
+⬇️MAS (Windows 延長試用與開源啟用腳本)
+MAS (Windows Trial Extension & Activation Script)
+https://github.com/massgravel/microsoft-activation-scripts
+
+----------------------------------------
+
+💡如果您對其他教學感興趣，可一鍵打包所有已更新的教學資料。
+If you are interested in other tutorials, you can download all updated tutorial materials with a single click.
+https://mypikpak.com/s/VP3FbOWSetF32396Hp3UFv6Eo2
